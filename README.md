@@ -1,5 +1,3 @@
-# sentiment-analysis-project-repo
-
 ## Sentiment Analysis on Review Dataset  
 
 ### Overview  
